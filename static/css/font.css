@@ -11,3 +11,11 @@
 	src: url('aus.eot'); 
 	src: url("DroidKufi-Regular.ttf") format("TrueType"); 
 }
+body {
+  margin: 0;
+  font-family: "Alpida Unicode System", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #333333;
+  background-color: #ffffff;
+}
