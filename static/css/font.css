@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Alpida Unicode System";
+	font-weight: normal;
+	src: url('aus.eot');
+	src: local("Alpida Unicode System"), local("UKIJ Tuz Tom"), local("ALKATIP Tor"), url("aus.ttf") format("TrueType");
+}
+
+@font-face {
+	font-family: "Droid Arabic Kufi";
+	font-weight: normal;
+	src: url('aus.eot'); 
+	src: url("DroidKufi-Regular.ttf") format("TrueType"); 
+}
